@@ -1,0 +1,9 @@
+/Users/macbookpro/Projects/OverlayTest/OverlayTest/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/macbookpro/Projects/OverlayTest/OverlayTest/obj/Release/OverlayTest.MyPage.xaml
+/Users/macbookpro/Projects/OverlayTest/OverlayTest/obj/Release/MyPage.xaml.g.cs
+/Users/macbookpro/Projects/OverlayTest/OverlayTest/bin/Release/OverlayTest.dll.mdb
+/Users/macbookpro/Projects/OverlayTest/OverlayTest/bin/Release/OverlayTest.dll
+/Users/macbookpro/Projects/OverlayTest/OverlayTest/obj/Release/OverlayTest.dll
+/Users/macbookpro/Projects/OverlayTest/OverlayTest/obj/Release/OverlayTest.dll.mdb
+/Users/macbookpro/Projects/OverlayTest/OverlayTest/bin/Release/Xamarin.Forms.Core.dll
+/Users/macbookpro/Projects/OverlayTest/OverlayTest/bin/Release/Xamarin.Forms.Xaml.dll

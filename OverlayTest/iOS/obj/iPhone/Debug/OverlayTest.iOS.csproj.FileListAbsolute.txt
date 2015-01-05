@@ -1,0 +1,13 @@
+C:\Users\Burak\Desktop\OverlayTest\iOS\bin\iPhone\Debug\OverlayTestiOS.exe
+C:\Users\Burak\Desktop\OverlayTest\iOS\bin\iPhone\Debug\OverlayTestiOS.pdb
+C:\Users\Burak\Desktop\OverlayTest\iOS\bin\iPhone\Debug\OverlayTest.dll
+C:\Users\Burak\Desktop\OverlayTest\iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Burak\Desktop\OverlayTest\iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.Classic.dll
+C:\Users\Burak\Desktop\OverlayTest\iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Burak\Desktop\OverlayTest\iOS\bin\iPhone\Debug\OverlayTest.pdb
+C:\Users\Burak\Desktop\OverlayTest\iOS\bin\iPhone\Debug\OverlayTest.dll.mdb
+C:\Users\Burak\Desktop\OverlayTest\iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Users\Burak\Desktop\OverlayTest\iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Burak\Desktop\OverlayTest\iOS\obj\iPhone\Debug\OverlayTest.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\OverlayTest\iOS\obj\iPhone\Debug\OverlayTestiOS.exe
+C:\Users\Burak\Desktop\OverlayTest\iOS\obj\iPhone\Debug\OverlayTestiOS.pdb

@@ -1,0 +1,10 @@
+C:\Users\Burak\Desktop\OverlayTest\OverlayTest\bin\Debug\OverlayTest.dll
+C:\Users\Burak\Desktop\OverlayTest\OverlayTest\bin\Debug\OverlayTest.pdb
+C:\Users\Burak\Desktop\OverlayTest\OverlayTest\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Burak\Desktop\OverlayTest\OverlayTest\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Burak\Desktop\OverlayTest\OverlayTest\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Burak\Desktop\OverlayTest\OverlayTest\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Burak\Desktop\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\OverlayTest\OverlayTest\obj\Debug\MyPage.xaml.g.cs
+C:\Users\Burak\Desktop\OverlayTest\OverlayTest\obj\Debug\OverlayTest.dll
+C:\Users\Burak\Desktop\OverlayTest\OverlayTest\obj\Debug\OverlayTest.pdb
